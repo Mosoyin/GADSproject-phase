@@ -4,9 +4,9 @@
 - [x] Getting started with Cloud marketplace
 - [x] Getting started with VPC Networking
 - [x] Getting started Cloud Storage and Cloud SQL
-- [ ] Deploying Google Kubernetes Engine
-- [ ] Hello Cloud Run
-- [ ] Automating the deployment of infrastructure using Terraform
+- [x] Deploying Google Kubernetes Engine
+- [x] Hello Cloud Run
+- [x] Automating the deployment of infrastructure using Terraform
 
 ## Essential Google Cloud Infrastructure: Foundation
 - [ ] Working with the Google Cloud Console and Cloud Shell
